@@ -1,6 +1,6 @@
 # 👋 Hey there! I’m Lloyd Lew with Company Connect
 
-[![Upwork Badge](https://img.shields.io/badge/Upwork-100%25%20Job%20Success-brightgreen?style=flat&logo=upwork)]((https://www.upwork.com/freelancers/companyconnect))
+[![Upwork Badge](https://img.shields.io/badge/Upwork-100%25%20Job%20Success-brightgreen?style=flat&logo=upwork)](https://www.upwork.com/freelancers/companyconnect)
 [![LinkedIn](https://img.shields.io/badge/Connect-Linkedin-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/lloyd-lew-companyconnect-worflow-automation-mondaycom-makecom-integration/)
 [![Website](https://img.shields.io/badge/Website-companyconnect.tech-black?style=flat&logo=google-chrome)](https://companyconnect.tech)
 [![monday.com Partner](https://img.shields.io/badge/monday.com-Certified%20Partner-ff4d5a?style=flat&logo=monday.com)](https://try.monday.com/hcyj60mh6fht)
