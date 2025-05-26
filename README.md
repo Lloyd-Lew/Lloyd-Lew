@@ -10,19 +10,19 @@
 ## What I Do:
 
 
-### 🧠 CRM Setup & Optimization  
+### CRM Setup & Optimization  
 Custom-built systems that *actually* work for your business — from sales pipelines to onboarding flows.
 
-### ⚙️ Workflow Automation  
+### Workflow Automation  
 Repetitive tasks? Gone. I use tools like **Make** and **Zapier** to automate the boring stuff.
 
-### 🤖 AI-Powered Solutions  
+### AI-Powered Solutions  
 Smarter processes with AI-driven call routing, document automation, and more.
 
-### 🔗 Seamless Integrations  
+### Seamless Integrations  
 Connect everything: **HubSpot**, **Zoho**, **Salesforce**, **QuickBooks**, **Stripe**, **Microsoft Teams**, and more.
 
-### 📅 Project Management  
+### Project Management  
 Clean, scalable project spaces using **monday.com**, **Zoho Projects**, and others — all tailored to how your team works.
 
 ------------------------------------------------------
@@ -30,7 +30,7 @@ Clean, scalable project spaces using **monday.com**, **Zoho Projects**, and othe
 https://wkf.ms/43zmoYv?country_mkngstc3=*
 ------------------------------------------------------
 
-## 🌟 Why Work With Me?
+## Why Work With Me?
 
 ✅ **100% Job Success on Upwork**  
 🧩 **Tailored solutions for real business needs**  
@@ -41,7 +41,7 @@ Want a behind-the-scenes look? Just ask through the details below!
 
 ---
 
-## 📬 Let’s Chat
+## Let’s Chat
 
 Got a project in mind or need a second brain to untangle your workflows? I’d love to connect.
 
