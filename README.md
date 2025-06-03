@@ -50,7 +50,9 @@ Got a project in mind or need a second brain to untangle your workflows? I’d l
 🔗 [linkedin.com/in/lloyd-lew](https://www.linkedin.com/in/lloyd-lew/)  
 🛠️ [View my Upwork Profile](https://www.upwork.com/freelancers/companyconnect)
 
-![Pacman Contribution Graph](https://raw.githubusercontent.com/Lloyd-Lew/Lloyd-Lew/output/pacman-contribution-graph.svg)
+![Pacman Contribution Graph](https://raw.githubusercontent.com/Lloyd-Lew/Lloyd-Lew/main/dist/pacman.svg)
+
+
 ---
 
 > “Imagine transforming the way your business operates — simplifying complex processes, saving valuable time, and building deeper customer connections… all through customized CRM systems and smart integrations.”  
