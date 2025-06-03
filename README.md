@@ -50,6 +50,8 @@ Got a project in mind or need a second brain to untangle your workflows? I’d l
 🔗 [linkedin.com/in/lloyd-lew](https://www.linkedin.com/in/lloyd-lew/)  
 🛠️ [View my Upwork Profile](https://www.upwork.com/freelancers/companyconnect)
 
+<img src="https://raw.githubusercontent.com/Lloyd-Lew/Lloyd-Lew/main/dist/pacman.svg" width="100%" />
+
 ![Pacman Contribution Graph](https://raw.githubusercontent.com/Lloyd-Lew/Lloyd-Lew/main/dist/pacman.svg)
 
 
