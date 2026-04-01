@@ -26,9 +26,8 @@ Connect everything: **HubSpot**, **Zoho**, **Salesforce**, **QuickBooks**, **Str
 Clean, scalable project spaces using **monday.com**, **Zoho Projects**, and others — all tailored to how your team works.
 
 ------------------------------------------------------
-*Fill out this form for a free 30 minute consultation:
-https://wkf.ms/43zmoYv?country_mkngstc3=*
-------------------------------------------------------
+https://wkf.ms/4bU60Ep Copy link for assistance.
+-----------------------------------------------------
 
 ## Why Work With Me?
 
