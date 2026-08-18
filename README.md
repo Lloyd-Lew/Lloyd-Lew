@@ -35,6 +35,10 @@ I work with platforms including **monday.com, Make, Zapier, HubSpot, Zoho, Sales
 
 The [CompanyConnect Systems Portfolio](https://github.com/Lloyd-Lew/companyconnect-systems-portfolio) explains the operational problems we solve, the delivery patterns we use, the implementation process, and the engagement path in more depth. It contains client-safe examples only; client data, credentials, live configurations, and confidential operating detail are never published.
 
+### Technical proof and due diligence
+
+For technical buyers, the [CompanyConnect Engineering Hub](https://lloyd-lew.github.io/companyconnect-engineering-hub/) connects public architecture, security, trust, and answer content to inspectable source repositories. The [Operations Blueprint](https://github.com/Lloyd-Lew/companyconnect-operations-blueprint) is the flagship client-safe reference system: a runnable TypeScript lifecycle demonstrating synthetic lead intake, qualification, CRM-style opportunity, quote, approval, onboarding, invoice trigger, support, KPIs, audit events, tests, CI, CodeQL, and explicit production boundaries.
+
 ### Representative outcomes
 
 The systems I design are built to create measurable improvement, such as faster lead response, stronger follow-up discipline, fewer manual handoffs, lower data re-entry, more reliable reporting, and clearer ownership. The implementation process starts with the business problem and ends with training, documentation, and a measurable improvement loop—not a one-off technical setup.
