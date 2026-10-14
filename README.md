@@ -60,8 +60,10 @@ The client‑safe proof for these patterns lives in the repositories above; the 
 
 If your team is losing time to inconsistent follow‑up, disconnected tools, manual operations, or reporting uncertainty, I'd be glad to help identify the highest‑value fix.
 
-- **Book a free strategy call:** https://companyconnect.tech
-- **Service packages:** https://companyconnect.tech
+- **Discuss your workflow:** [Contact CompanyConnect](https://companyconnect.tech/contact-us/)
+- **Compare service scopes:** [CRM, automation, integrations and AI services](https://companyconnect.tech/services-hub/)
+- **Inspect implementation patterns and public evidence:** [CompanyConnect Work](https://companyconnect.tech/work/)
+- **Plan a cross-border engagement:** [International delivery](https://companyconnect.tech/international/)
 - **LinkedIn:** https://www.linkedin.com/in/lloyd-lew
 - **Email:** letsconnect@companyconnect.tech
 
